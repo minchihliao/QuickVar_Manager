@@ -1,0 +1,2 @@
+# QuickVar-Manager
+For Unity
